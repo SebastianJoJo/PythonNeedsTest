@@ -7,3 +7,6 @@ PythonNeedsTest
    HelloWorld
    Main
    ModuleNeeds
+   module1
+   module2
+   utils
